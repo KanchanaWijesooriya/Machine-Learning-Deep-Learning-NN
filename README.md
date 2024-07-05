@@ -1,4 +1,4 @@
-### **Iris Classification using Neural Network**
+### **Iris Classification using Neural Networks**
 
 **Introduction**
 
